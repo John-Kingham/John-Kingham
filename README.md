@@ -1,4 +1,13 @@
-## Hi there 👋
+# Goals
+* To learn about modern software development
+* To contribute to some interesting projects
+# Background
+* 1998-2001: IBM RPG/400 Analyst/Programmer in the insurance industry
+* 2001-2002: Java developer working on Java Enterprise websites
+* 2002-2010: Back to RPG/400 Analyst/Programmer working on insurance software
+* 2010-2011: C# Analyst/Programmer after the old RPG/400 system was ported across
+* 2011-2025: Other things not related to sofware
+* 2025: Back to coding school at Codecademy and here
 
 <!--
 **John-Kingham/John-Kingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
