@@ -1,6 +1,5 @@
 # Goals
-* To work as a software or data engineer
-* To help make the global economy more sustainable
+* To work as a software developer for companies helping to make the global economy more sustainable
 # Background
 * 1998-2001: IBM RPG Analyst/Programmer in the insurance industry
 * 2001-2002: Java J2EE developer at a London-based start-up
