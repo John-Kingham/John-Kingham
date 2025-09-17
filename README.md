@@ -1,7 +1,7 @@
 # Goals
 * To work as a software developer for companies helping to make the global economy more sustainable
 # Background
-* 1998-2001: IBM RPG Analyst/Programmer in the insurance industry
+* 1998-2001: IBM RPG/400 Analyst/Programmer in the insurance industry
 * 2001-2002: Java J2EE developer at a London-based start-up
 * 2002-2010: Back to IBM RPG Analyst/Programmer work in the insurance industry
 * 2010-2011: C# Analyst/Programmer after the old IBM RPG system was replaced
