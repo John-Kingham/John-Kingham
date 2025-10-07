@@ -1,24 +1,12 @@
 # Goals
-* To work as a software developer for companies helping to make the global economy more sustainable
-# Background
+
+* To work as a software engineer for companies helping to make the global economy sustainable
+
+# Tech Background
+
 * 1998-2001: IBM RPG/400 Analyst/Programmer in the insurance industry
-* 2001-2002: Java J2EE developer at a London-based start-up
-* 2002-2010: Back to IBM RPG Analyst/Programmer work in the insurance industry
-* 2010-2011: C# Analyst/Programmer after the old IBM RPG system was replaced
-* 2011-2025: Other things not related to sofware
-* 2025: Studying for a Diploma in Full-Stack Software Development at Code Institute
-
-<!--
-**John-Kingham/John-Kingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 2001-2002: Java J2EE back-end developer at a London start-up
+* 2002-2010: IBM RPG/400 Analyst/Programmer in the insurance industry
+* 2010-2011: C# Analyst/Programmer in the insurance industry
+* 2011-2025: Founder/CEO/Analyst at UKDividendStocks.com
+* 2025: Diploma in Full-Stack Software Development at Code Institute
